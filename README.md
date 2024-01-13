@@ -15,10 +15,10 @@
 - Location Services
 
 ## API:
-- Open Meteo API
-- link: https://open-meteo.com/en
+### Open Meteo API
+link: https://open-meteo.com/en
 
 ## Source 
 
-- Video: https://www.youtube.com/watch?v=eAbKK7JNxCE
-- Channel: https://www.youtube.com/@PhilippLackner
+Video: https://www.youtube.com/watch?v=eAbKK7JNxCE
+Channel: https://www.youtube.com/@PhilippLackner
